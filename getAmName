@@ -1,17 +1,17 @@
 [
     {
-        "amtUsersId": 185,
-        "displayName": "ANDERSON MORENO 185 AM",
-        "emVendorId": 0
+        amtUsersId: 185,
+        displayName: "ANDERSON MORENO 185 AM",
+        emVendorId: 0
     },
     {
-        "amtUsersId": 524,
-        "displayName": "ANDRES LEE 524 AM",
-        "emVendorId": 0
+        amtUsersId: 524,
+        displayName: "ANDRES LEE 524 AM",
+        emVendorId: 0
     },
     {
-        "amtUsersId": 2785,
-        "displayName": "Anu Mathew",
-        "emVendorId": 0
+        amtUsersId: 2785,
+        displayName: "Anu Mathew",
+        emVendorId: 0
     }
 ]
